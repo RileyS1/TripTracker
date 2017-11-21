@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="enter_password" type="id" />
+    <item name="action_refresh" type="id" />
+    <item name="action_new" type="id" />
+    <item name="menu_item_delete_trip" type="id" />
+    <item name="dialog_datePicker" type="id" />
+</resources>
